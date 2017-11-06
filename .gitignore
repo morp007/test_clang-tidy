@@ -1,1 +1,4 @@
 cmakefiles_*
+
+/.idea
+cmake-build-debug
